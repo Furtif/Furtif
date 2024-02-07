@@ -1,7 +1,7 @@
-### Hi there 👋
+<!--### Hi there 👋
 
 I'm Furtif. 
-<!--
+
 ![PayPal](qrcode_paypal.png)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Furtif)](https://github.com/anuraghazra/github-readme-stats)

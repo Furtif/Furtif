@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![profile views](https://komarev.com/ghpvc/?username=Furtif)
+![profile views](https://komarev.com/ghpvc/?username=Furtif&abbreviated=true)
 
 
 [![](https://raw.githubusercontent.com/Furtif/github-profile-summary-cards-example/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/Furtif/github-profile-summary-cards-example)

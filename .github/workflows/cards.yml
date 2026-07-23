@@ -34,4 +34,4 @@ jobs:
           # DURATION is optional; animation speed in seconds (0.2–10). Only applies when ANIMATION is set. Empty = preset default.
           DURATION: "10"
           # NAME is optional; override the displayed name/title on the profile-details card (elided to ~22 chars). Empty = default "login (name)".
-          NAME: "Furtif"
+          NAME: "--=FurtiF™=--"
